@@ -13,7 +13,7 @@ const MovieView = () => {
       headers: {
         accept: "application/json",
         Authorization:
-          "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmZWRiZDNiZTYxYjZmODQxZDllOTYyMjUxMmM4MGEyNyIsInN1YiI6IjY0ZTBmZmZmYWFlYzcxMDNmYTQ4YTk4NyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.CME3ZWhCo5CzRbgHP1q7hFerljlNr5FKs3SHhtW6Gjg",
+          "Bearer <AUTH KEY>",
       },
     };
 
